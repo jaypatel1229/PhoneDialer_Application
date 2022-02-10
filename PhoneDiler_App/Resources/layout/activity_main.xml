@@ -22,7 +22,7 @@
     <Button
         android:layout_marginTop="50dp"
         android:id="@+id/btn1"
-        android:text="Diler"
+        android:text="Dialer"
         android:layout_marginLeft="40dp"
         android:layout_marginRight="40dp"
         android:layout_height="wrap_content"
